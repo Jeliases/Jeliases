@@ -60,23 +60,28 @@ Me gusta crear soluciones que **ayuden a las personas**, y creo firmemente que l
 
 ---
 
-## 📊 Estadísticas de GitHub
+<h2 align="center">📊 Estadísticas de GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeliases&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jeliases&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jeliases&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeliases&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeliases&theme=tokyonight&hide_border=true" height="170"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeliases&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
 
 ---
 
-## 🏆 Logros en GitHub
+
+<h2 align="center">🏆 Logros en GitHub</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeliases&theme=tokyonight&no-frame=true&row=1&column=6"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=jeliases&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
 </p>
 
 ---
