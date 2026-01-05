@@ -1,87 +1,99 @@
-<h1 align="center">
-  Hola, soy Jorge Luis 👋
-</h1>
+<!-- BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Jorge%20Luis%20Elías&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
 <h3 align="center">
-  Desarrollador Backend | Bases de Datos | ASP.NET | SQL Server
+  🚀 Desarrollador Full Stack | Backend | Bases de Datos
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+de+GitHub;Desarrollador+Backend+y+Base+de+Datos;ASP.NET+%7C+SQL+Server+%7C+APIs;Construyendo+soluciones+reales" />
+  <b>Angular · React · ASP.NET · Spring Boot · SQL Server</b>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👋 Sobre mí
 
-Soy **Desarrollador de Software** con enfoque en **Backend y Bases de Datos**.  
-Me caracterizo por la **responsabilidad, puntualidad y compromiso**, valores que considero clave para lograr proyectos sólidos y de impacto real.
+Soy **Desarrollador de Software Full Stack**, con fuerte enfoque en **Backend y Bases de Datos**, pero también experiencia sólida en **Frontend moderno**.
 
-Me gusta crear soluciones que **ayuden a las personas**, y creo firmemente que la tecnología puede mejorar la sociedad cuando se aplica de forma correcta.
+Me caracterizo por la **responsabilidad, puntualidad y compromiso**, y disfruto crear soluciones que **realmente ayuden a las personas**.
 
-🚀 Actualmente soy **dueño y desarrollador** de **App Tu Calle**, una **red social de recomendaciones de comida**, orientada a conectar personas con negocios locales.
+🚀 Actualmente soy **dueño y desarrollador** de **App Tu Calle**, una **red social de recomendaciones de comida**, pensada para impulsar negocios locales mediante experiencias reales.
 
 ---
 
-## 🚀 Proyecto Destacado
+## 🍽️ Proyecto Propio
 
-### 🍽️ App Tu Calle
-**Red social de recomendaciones de comida**
+### 📱 App Tu Calle
+**Red social de recomendaciones gastronómicas**
 
-- 👨‍💼 Rol: **Creador y desarrollador**
-- 🧠 Objetivo: Recomendar negocios de comida local mediante experiencias reales
-- 🛠️ En desarrollo con enfoque en **Backend, base de datos y escalabilidad**
-- 📱 Pensada para crecer como plataforma social
+- 👨‍💻 Rol: **Creador & Desarrollador**
+- 🎯 Objetivo: Conectar personas con negocios locales
+- 🧠 Enfoque: Backend robusto + base de datos escalable
+- 🚀 Visión: Plataforma social con crecimiento real
 
 ---
 
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Lenguajes
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
-### 🌐 Backend / Frameworks
-![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+---
+
+### 🌐 Frontend
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+---
+
+### ⚙️ Backend
+![ASP.NET](https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=.net)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+---
 
 ### 🗄️ Bases de Datos
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-### ⚙️ Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 
 ---
 
-<h2 align="center">📊 Estadísticas de GitHub</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeliases&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=jeliases&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeliases&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
+### 🧰 Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
+![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 
 ---
 
+## 📊 GitHub Stats (modo seguro)
 
-<h2 align="center">🏆 Logros en GitHub</h2>
+> ℹ️ GitHub a veces bloquea estadísticas externas.  
+> Este perfil está **diseñado para verse bien incluso si eso pasa**.
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jeliases&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jeliases&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Jeliases&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Jeliases&theme=darkhub&no-frame=true&row=1&margin-w=15" />
 </p>
 
 ---
@@ -90,16 +102,19 @@ Me gusta crear soluciones que **ayuden a las personas**, y creo firmemente que l
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jorge-luis-elias-estrada-6b8761253/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="https://www.instagram.com/luis.eliaas/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
   <a href="mailto:j.luisestrada98@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
 ---
 
-⭐ Gracias por visitar mi perfil. Siempre abierto a aprender, mejorar y construir proyectos con impacto real.
+<p align="center">
+  ⭐ Gracias por visitar mi perfil. Siempre aprendiendo, siempre construyendo.
+</p>
+
