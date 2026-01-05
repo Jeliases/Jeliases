@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Jorge%20Luis%20Elías&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Jorge%20Luis%20Elías%20Estrada%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <h3 align="center">
