@@ -61,21 +61,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 
----
-
-## ⚙️ GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeliases&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeliases&layout=compact&langs_count=8&theme=algolia"/>
-</p>
-
-<p align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeliases&theme=algolia&hide_border=true"/>
-</p>
 
 ---
 
