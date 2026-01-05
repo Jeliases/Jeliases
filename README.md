@@ -1,41 +1,30 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Jorge%20Luis%20Elías%20Estrada%20&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Jorge%20Luis%20Elías%20Estrada&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h3 align="center">
-  🚀 Desarrollador Full Stack | Backend | Bases de Datos
-</h3>
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand-Wave.gif" width="40" align="left"/>
 
-<p align="center">
-  <b>Angular · React · ASP.NET · Spring Boot · SQL Server</b>
-</p>
+<h2 align="left">Hola, soy Jorge Luis Elías Estrada</h2>
 
 ---
 
-## 👋 Sobre mí
+## 👨‍💻 Sobre mí
 
-Soy **Desarrollador de Software Full Stack**, con fuerte enfoque en **Backend y Bases de Datos**, pero también experiencia sólida en **Frontend moderno**.
+👨‍💻 Desarrollador **Full Stack** con enfoque fuerte en **Backend y Bases de Datos**  
+💡 Me gusta crear soluciones reales que ayuden a personas y negocios  
+🎓 Estudiante de Desarrollo de Software  
+🌱 Aprendiendo constantemente sobre arquitecturas modernas y escalables  
+🚀 **Creador y dueño de App Tu Calle**, una red social de recomendaciones de comida  
+💬 Abierto a colaborar, aprender y construir proyectos con impacto real  
 
-Me caracterizo por la **responsabilidad, puntualidad y compromiso**, y disfruto crear soluciones que **realmente ayuden a las personas**.
-
-🚀 Actualmente soy **dueño y desarrollador** de **App Tu Calle**, una **red social de recomendaciones de comida**, pensada para impulsar negocios locales mediante experiencias reales.
-
----
-
-## 🍽️ Proyecto Propio
-
-### 📱 App Tu Calle
-**Red social de recomendaciones gastronómicas**
-
-- 👨‍💻 Rol: **Creador & Desarrollador**
-- 🎯 Objetivo: Conectar personas con negocios locales
-- 🧠 Enfoque: Backend robusto + base de datos escalable
-- 🚀 Visión: Plataforma social con crecimiento real
+📧 **Contacto:** j.luisestrada98@gmail.com
 
 ---
 
-## 🛠️ Stack Tecnológico
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+## 🛠️ Tech Stack
 
 ### 💻 Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp)
@@ -49,8 +38,8 @@ Me caracterizo por la **responsabilidad, puntualidad y compromiso**, y disfruto 
 ### 🌐 Frontend
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ---
 
@@ -70,30 +59,22 @@ Me caracterizo por la **responsabilidad, puntualidad y compromiso**, y disfruto 
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code)
 
 ---
 
-## 📊 GitHub Stats (modo seguro)
-
-> ℹ️ GitHub a veces bloquea estadísticas externas.  
-> Este perfil está **diseñado para verse bien incluso si eso pasa**.
+## ⚙️ GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Jeliases&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jeliases&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Jeliases&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jeliases&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
----
-
-## 🏆 Logros
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jeliases&theme=darkhub&no-frame=true&row=1&margin-w=15" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Jeliases&theme=algolia&hide_border=true"/>
 </p>
 
 ---
@@ -117,4 +98,3 @@ Me caracterizo por la **responsabilidad, puntualidad y compromiso**, y disfruto 
 <p align="center">
   ⭐ Gracias por visitar mi perfil. Siempre aprendiendo, siempre construyendo.
 </p>
-
