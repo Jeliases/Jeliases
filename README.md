@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Jorge%20Luis%20Elías%20Estrada&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0aa6ff,100:6f00ff&height=220&section=header&text=Bienvenido%20A%20Mi%20Perfil&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand-Wave.gif" width="40" align="left"/>
